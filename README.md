@@ -1,4 +1,4 @@
-<h1>Backend Development in PHP</h1>
+<h1>Backend Development in PHP & Laravel</h1>
 
 <h2>Content: <h2>
 <ul>
