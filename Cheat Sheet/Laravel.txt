@@ -1,0 +1,96 @@
+composer require laravel/installer
+laravel new PROJECT_NAME
+composer install
+
+Route::get\post\delete\..("/",function(){});
+Request::path()
+Request::is("regex")
+Route::resource('','')
+Auth::user()
+Model::all()
+Model::where('key','value'),
+Model::orderBy('key','asc/desc')
+Model::latest("column")
+Model::take(HowMany)
+
+@yield('')
+@extends('')
+@section('')
+@endsection
+@include('')
+@auth
+@guest
+@foreach
+@endforeach
+@forelse
+@endforelse
+@if
+@endif
+@error
+@error("inputName")
+@enderror
+@empty
+
+
+$request->validate(['name' => 'required|max:255'|image|nullable'], ...)
+$request->input('name')
+$request->get("name")
+$request->hasFile('name')
+$request->file('name')
+
+
+redirect('/')
+back()
+auth()->
+auth()->user()->colName
+route("named.route", [data/parameter])
+compact('')
+old("input")
+
+php artisan make:controller ctrlrName [--resource]
+php artisan make:model ModelName -[m]
+php artisan make:migration migName
+php artisan migrate:fresh
+php artisan migrate:rollback
+php artisan tinker
+php artisan storage:link
+php artisan make:event
+php artisan make:policy
+php artisan make:listener
+php artisan make:provider
+php artisan key:generate
+
+### view()
+->with('var',$var)
+->withName($name)
+
+## model::
+->get()
+->take()
+->all()
+->links()
+->first()
+->firstOrFail()
+
+## eloquent
+->dropColumn('colName')
+->belongsTo('App\ModelName')
+->hasMany('App\ModelName')
+
+## file
+->getClientOriginalName()
+->getClientOriginalExtension()
+->file('name')
+->store("/path/to/folder/")
+
+## collection
+->pluck("column/key")
+->flatten()
+->map()
+->collapse()
+
+
+// if there is a variable carrying a string, string has html syntax
+// and you wanna parse it: {!! $myString !!}
+
+// check user is logged in by boolean function Auth::guest() OR Auth::auth()
