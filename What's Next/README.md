@@ -31,5 +31,3 @@
 <br>
 <h4>To get advanced in Database Design, Learn:</h4>
 <a target="_blank" href="https://www.youtube.com/watch?v=e7Pr1VgPK4w&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID&index=2&ab_channel=CalebCurry">Resource (youtube playlist)</a><br>
-
-<video width="560" height="315" src="https://www.youtube.com/embed/vmFFEok91GU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></video>
