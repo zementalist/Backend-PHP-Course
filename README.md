@@ -1,4 +1,4 @@
-# Backend-PHP-Course
+<h1>Backend Development in PHP</h1>
 
 <h2>Content: <h2>
 <ul>
@@ -14,7 +14,7 @@
 <li><a href="https://github.com/zementalist/Blog-PHP">Project 1  &lt;?php Blog ?&gt; <a></li>
 <br>
 <li>PHP: as a programming language (OOP)</li>
-<li>Design Pattern: Model-View-Controller (MVC)</li>
+<li>Architecture Pattern: Model-View-Controller (MVC)</li>
 <li>Laravel: Environment & Installation</li>
 <li>Laravel: Routing & Controllers</li>
 <li>Laravel: Blade Template & Compiling Assets</li>
