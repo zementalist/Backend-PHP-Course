@@ -12,8 +12,8 @@
 <li>PHP & MySQL: Create, Read, Update, Delete (CRUD)</li>
 <li>PHP & MySQL: Relations and Joins in Databases</li>
 <li>PHP & MySQL: SQL Injection & Prepared Statements</li>
- <li>PHP: Authentication & Access Control</li>
-  <li><a href="https://github.com/zementalist/Blog-PHP">Project 1  &lt;?php Blog ?&gt; </a> (<a href='https://youtu.be/s-W5JlEwG4A'>Youtube</a>)</li>
+<li>PHP: Authentication & Access Control</li>
+<li>PHP: <a href="https://github.com/zementalist/Blog-PHP">Project 1 - Blog</a> (<a href='https://youtu.be/s-W5JlEwG4A'>Youtube</a>)</li>
 <br>
 <li>PHP: as a programming language (OOP)</li>
 <li>Architecture Pattern: Model-View-Controller (MVC)</li>
@@ -26,5 +26,5 @@
 <li>Laravel: Authentication & Access Control</li>
 <li>Laravel: Eloquent & Query Builder</li>
 <li>Laravel: Making API with Laravel & JavaScript</li>
-<li><a href="https://github.com/zementalist/Blog-Laravel">Project 2 {{ Laracast }}</a></li>
+<li>Laravel: <a href="https://github.com/zementalist/Blog-Laravel">Project 2 {{ Laracast }}</a></li>
 </ul>
