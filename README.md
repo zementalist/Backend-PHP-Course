@@ -13,7 +13,7 @@
 <li>PHP & MySQL: Relations and Joins in Databases</li>
 <li>PHP & MySQL: SQL Injection & Prepared Statements</li>
 <li>PHP: Authentication & Access Control</li>
-<li>PHP: Project 1 - Blog <a href="https://github.com/zementalist/Blog-PHP">(GitHub)</a> (<a href='https://youtu.be/s-W5JlEwG4A'>Youtube</a>)</li>
+<li>PHP: Project 1 - Blog (<a href="https://github.com/zementalist/Blog-PHP">GitHub</a>) (<a href='https://youtu.be/s-W5JlEwG4A'>Youtube</a>)</li>
 <br>
 <li>PHP: as a programming language (OOP)</li>
 <li>Architecture Pattern: Model-View-Controller (MVC)</li>
