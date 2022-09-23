@@ -11,7 +11,9 @@
 <li>MySQL: Creating structure & schema</li>
 <li>PHP & MySQL: Create, Read, Update, Delete (CRUD)</li>
 <li>PHP & MySQL: Relations and Joins in Databases</li>
-<li><a href="https://github.com/zementalist/Blog-PHP">Project 1  &lt;?php Blog ?&gt; <a></li>
+<li>PHP & MySQL: SQL Injection & Prepared Statements</li>
+ <li>PHP: Authentication & Access Control</li>
+  <li><a href="https://github.com/zementalist/Blog-PHP">Project 1  &lt;?php Blog ?&gt; </a> (<a href='https://youtu.be/s-W5JlEwG4A'>Youtube</a>)</li>
 <br>
 <li>PHP: as a programming language (OOP)</li>
 <li>Architecture Pattern: Model-View-Controller (MVC)</li>
